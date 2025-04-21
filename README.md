@@ -196,17 +196,16 @@ predict_image(model, image_index=80, dataset=test_dataset)
 ### OUTPUT
 
 ## Training Loss per Epoch
-![Training Loss epoch](https://github.com/user-attachments/assets/04463aba-a9c9-4174-9706-e75932fe1de3)
+![image](https://github.com/user-attachments/assets/b6a0444b-ac7e-4c59-b7c5-4a5bd9d900c8)
 
 ## Confusion Matrix
-![Confusion Matrix](https://github.com/user-attachments/assets/680570df-1a22-4c3e-84eb-f173576ae431)
+![image](https://github.com/user-attachments/assets/7f9bcdae-af29-49d5-943c-21a0cd7fcae5)
 
 ## Classification Report
-![Classification report](https://github.com/user-attachments/assets/3eccc36d-1f5c-4496-80aa-cc413a94cd02)
+![image](https://github.com/user-attachments/assets/02691f01-ba4b-4811-aa29-d978546dea27)
 
 ### New Sample Data Prediction
-![Prediction](https://github.com/user-attachments/assets/ccbbc208-72c1-4093-9638-be2c56dcfbbf)
-
+![image](https://github.com/user-attachments/assets/18940674-16bb-47cd-9bc7-9099180438f1)
 
 ## RESULT
 Thus the CNN model was trained and tested successfully on the MNIST dataset.
